@@ -1,0 +1,44 @@
+{
+  "development": {
+    "APP_NAME": "Node API",
+    "NODE_ENV": "development",
+    "PORT": 3000,
+    "SESSION_SECRET": "GodIsGreat19",
+    "CLIENT_ID": "GodIsGreat1919",
+    "DB_NAME": "node-starter",
+    "DB_USERNAME": null,
+    "DB_PASSWORD": null,
+    "DB_CONFIG": {
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  },
+  "staging": {
+    "APP_NAME": "Node API",
+    "NODE_ENV": "staging",
+    "PORT": 3000,
+    "SESSION_SECRET": "GodIsGreat19",
+    "CLIENT_ID": "GodIsGreat1919",
+    "DB_NAME": "node-starter",
+    "DB_USERNAME": null,
+    "DB_PASSWORD": null,
+    "DB_CONFIG": {
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  },
+  "production": {
+    "APP_NAME": "Node API",
+    "NODE_ENV": "production",
+    "PORT": 3000,
+    "SESSION_SECRET": "GodIsGreat19",
+    "CLIENT_ID": "GodIsGreat1919",
+    "DB_NAME": "node-starter",
+    "DB_USERNAME": null,
+    "DB_PASSWORD": null,
+    "DB_CONFIG": {
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+}
